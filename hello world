@@ -4,7 +4,7 @@
 </head>
 
 <body>
-<table>
+<table border="1">
 <th>
 <tb><p>hello world</p></tb>
 </th>
